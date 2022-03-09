@@ -5,8 +5,8 @@
     "name": "ACPI Daemon",
     "description": "ACPI Daemon that handles power button events",
     "author_url": "https://sourceforge.net/projects/acpid2/",
-    "packer_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid",
-    "help_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid"
+    "packer_url": "https://github.com/OrpheeGT/redpill-ext/raw/master/acpid",
+    "help_url": "https://github.com/OrpheeGT/redpill-ext/raw/master/acpid"
   },
   "releases": {
     "ds3615xs_25556": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v6_bromolow.json",
