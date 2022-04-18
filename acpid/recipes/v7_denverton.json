@@ -9,14 +9,14 @@
     },
     {
       "name": "pwrbtn-module-v7-denverton.tgz",
-      "url": "https://github.com/OrpheeGT/redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-denverton.tgz",
-      "sha256": "52ae12667ba64ea696822add0c3189dbf08abbac2240605c7add52d224cc8bb8",
+      "url": "https://github.com/trantamjp/OrpheeGT-redpill-ext/raw/master/acpid/modules/pwrbtn-module-v7-denverton.tgz",
+      "sha256": "31780dc6eaaa28c1151504b269d11b7735ef4c470f0c5814e608c7dcb5f70deb",
       "packed": true
     },
     {
       "name": "pwrbtn_pkg.tgz",
-      "url": "https://github.com/OrpheeGT/redpill-ext/raw/master/acpid/pkg/pwrbtn_pkg.tgz",
-      "sha256": "8ad6f755508c45b164af434ac2044b1688f6a6eb5b844c1087240d0e941f421d",
+      "url": "https://github.com/trantamjp/OrpheeGT-redpill-ext/raw/master/acpid/pkg/pwrbtn_pkg.tgz",
+      "sha256": "164280659f2c19141507033526eecbf14f140205f88ce85951e22de9bf1342f2",
       "packed": false
     }
   ],
